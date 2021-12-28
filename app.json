@@ -6,7 +6,7 @@
         "telethon",
         "telegram-bot"
     ],
-  "repository": "https://github.com/anonyindian/AccountGeneratorBot",
+  "repository": "https://github.com/Dileepa-Malshan/premiumaccgenerator",
   "website": "https://t.me/xnony",
   "success_url": "https://t.me/StarDevs",
   "env": {
